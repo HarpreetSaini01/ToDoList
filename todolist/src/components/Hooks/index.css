@@ -1,0 +1,47 @@
+.incerement {
+  border: 1px solid black;
+  border: 25px;
+  display: flex;
+}
+.decrement {
+  border: 1px solid black;
+  border: 25px;
+  margin: 50px;
+  float: left;
+}
+
+.value {
+  color: #b71b1b;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.button2 {
+  position: relative;
+  padding: 30px 61px;
+  border-radius: 4px;
+  color: #5e0610;
+  margin: 25px;
+  border: 2px solid #d2bdff;
+  cursor: pointer;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #060505;
+}
+.useState {
+  border: 1px solid white;
+  margin-bottom: 10px;
+}
+.useEffect {
+  border: 1px solid white;
+  margin-bottom: 10px;
+}
+.useReducer {
+  border: 1px solid white;
+  margin-bottom: 10px;
+}
